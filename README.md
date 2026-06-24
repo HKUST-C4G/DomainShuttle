@@ -3,7 +3,9 @@
 
 <h1>DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation</h1>
 
-[**Nan Chen†**](https://cn-makers.github.io/) ·**Yiyang Cai†** · **Rongchang Xie** · **Junwen Pan** · **Cheng Chen** · **Weinan Jia** · **Zhuowei Chen** · **Wen Zhou‡** · **Zhenbang Sun** · **Wenhan Luo**<sup>&#9993;</sup>
+[**Nan Chen†**](https://cn-makers.github.io/) ·**Yiyang Cai†** · **Rongchang Xie** · **Junwen Pan** · **Cheng Chen** · **Weinan Jia** · **Zhuowei Chen** ·
+
+ **Wen Zhou‡** · **Zhenbang Sun** · **Wenhan Luo**<sup>&#9993;</sup>
 
 
 <sup>†</sup>Equal Contribution.
